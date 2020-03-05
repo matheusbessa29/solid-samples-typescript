@@ -1,4 +1,4 @@
-class Atividades {
+class Atividade {
   private baseDados: Database;
   
   constructor(private nome: string, private prazo: Date) {
